@@ -1,3 +1,3 @@
 # hello-world
 
-Exploring branch feature in Github
+Exploring the branch feature in Github
